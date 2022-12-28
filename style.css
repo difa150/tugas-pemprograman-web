@@ -1,0 +1,39 @@
+body {
+background-color: #90fcad;
+font: 16px arial, sans-serif;
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: white;
+}
+
+.header{
+	padding: 20px;
+}
+
+.banner {
+	height: 250px;
+	background-image: url(gambar/kihajardewantara.jpg);
+	background-position: opx -520px;
+	border-top: 5px solid #a7f2bb;
+	border-bottom: 5px solid #b4edc4;
+}
+
+h2 {
+	padding: 20px;
+	padding-bottom: 10px;
+}
+
+p {
+	padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	text-align: justify;
+}
+
+a{
+	padding: 20px;
+	padding-top: 0px;
+}

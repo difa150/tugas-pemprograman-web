@@ -1,0 +1,39 @@
+body {
+background-color: #c9f3f5;
+font: 16px arial , sans-serif;
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: white;
+}
+
+.header{
+	padding: 20px;
+}
+
+.banner {
+	height: 250px;
+	background-image: url(gambar/berita2.jpg);
+	background-position: opx -520px;
+	border-top: 5px solid #badfe0;
+	border-bottom: 5px solid #68dfe3;
+}
+
+h2 {
+	padding: 20px;
+	padding-bottom: 10px;
+}
+
+p {
+	padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	text-align: justify;
+}
+
+a{
+	padding: 20px;
+	padding-top: 0px;
+}
